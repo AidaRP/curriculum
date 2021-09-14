@@ -1,0 +1,29 @@
+img{
+    width: 20%;
+}
+
+.header{
+    display: flex;
+    justify-content: space-around;
+   
+   
+}
+.header img{
+width: 15%;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 30vw;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.text p{
+    display: flex;
+    align-items: center;
+    margin: 35px;
+}
